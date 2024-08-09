@@ -27,4 +27,3 @@ A derivada da função $f(x) = x^2$ é dada por $\frac{d}{dx} x^2 = 2x$.
 
 ## Conclusão
 Markdown é uma linguagem de marcação que é muito útil para escrever textos simples e formatados. Com markdown, você pode escrever expressões matemáticas de forma simples e rápida, sem precisar de um editor de texto especializado. Se você quiser aprender mais sobre markdown, você pode acessar o site oficial da linguagem em [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/).
-```
